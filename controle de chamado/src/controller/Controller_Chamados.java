@@ -31,6 +31,8 @@ import static view.Tela_Chamado.txt_Responsavel;
 /**
  *
  * @author Luciano
+ * @date maio 2020
+ * @version 1 TCC
  */
 public class Controller_Chamados {
 
